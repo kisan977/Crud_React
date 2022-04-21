@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/github.io/Crud_React/static/css/main.7fe91c8d.chunk.css",
+    "main.js": "/github.io/Crud_React/static/js/main.89346c18.chunk.js",
+    "main.js.map": "/github.io/Crud_React/static/js/main.89346c18.chunk.js.map",
+    "runtime-main.js": "/github.io/Crud_React/static/js/runtime-main.8ff18352.js",
+    "runtime-main.js.map": "/github.io/Crud_React/static/js/runtime-main.8ff18352.js.map",
+    "static/css/2.daf1cc91.chunk.css": "/github.io/Crud_React/static/css/2.daf1cc91.chunk.css",
+    "static/js/2.2b25a3b1.chunk.js": "/github.io/Crud_React/static/js/2.2b25a3b1.chunk.js",
+    "static/js/2.2b25a3b1.chunk.js.map": "/github.io/Crud_React/static/js/2.2b25a3b1.chunk.js.map",
+    "index.html": "/github.io/Crud_React/index.html",
+    "static/css/2.daf1cc91.chunk.css.map": "/github.io/Crud_React/static/css/2.daf1cc91.chunk.css.map",
+    "static/css/main.7fe91c8d.chunk.css.map": "/github.io/Crud_React/static/css/main.7fe91c8d.chunk.css.map",
+    "static/js/2.2b25a3b1.chunk.js.LICENSE.txt": "/github.io/Crud_React/static/js/2.2b25a3b1.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/github.io/Crud_React/static/media/outline-icons.ddae9b1b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8ff18352.js",
+    "static/css/2.daf1cc91.chunk.css",
+    "static/js/2.2b25a3b1.chunk.js",
+    "static/css/main.7fe91c8d.chunk.css",
+    "static/js/main.89346c18.chunk.js"
+  ]
+}
