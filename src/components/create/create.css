@@ -1,0 +1,9 @@
+.form-container{
+    display: flex;
+    justify-content: center;
+    margin: 5rem;
+    box-shadow: 10px 10px 5px #aaaaaa;
+    border-top: 1px solid #aaaaaa;
+    border-left: 1px solid #aaaaaa;
+    padding: 3rem;
+}
